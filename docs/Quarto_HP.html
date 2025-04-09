@@ -4762,7 +4762,23 @@ vertical-align: -.125em;
    
   <ul>
   <li><a href="#qualtを使ったhpの作り方" id="toc-qualtを使ったhpの作り方" class="nav-link active" data-scroll-target="#qualtを使ったhpの作り方">Qualtを使ったHPの作り方</a></li>
-  <li><a href="#目次" id="toc-目次" class="nav-link" data-scroll-target="#目次">### 目次</a></li>
+  <li><a href="#事前準備" id="toc-事前準備" class="nav-link" data-scroll-target="#事前準備">事前準備</a>
+  <ul class="collapse">
+  <li><a href="#quartoをダウンロードする" id="toc-quartoをダウンロードする" class="nav-link" data-scroll-target="#quartoをダウンロードする">Quartoをダウンロードする</a></li>
+  <li><a href="#rstudioの最新版をインストールする" id="toc-rstudioの最新版をインストールする" class="nav-link" data-scroll-target="#rstudioの最新版をインストールする">RStudioの最新版をインストールする</a></li>
+  <li><a href="#rstudioでプロジェクトを作る" id="toc-rstudioでプロジェクトを作る" class="nav-link" data-scroll-target="#rstudioでプロジェクトを作る">RStudioでプロジェクトを作る</a></li>
+  </ul></li>
+  <li><a href="#hpの中身を作る" id="toc-hpの中身を作る" class="nav-link" data-scroll-target="#hpの中身を作る">HPの中身を作る</a>
+  <ul class="collapse">
+  <li><a href="#index.qmdはhpの内容" id="toc-index.qmdはhpの内容" class="nav-link" data-scroll-target="#index.qmdはhpの内容">index.qmdはHPの内容</a></li>
+  <li><a href="#quarto.ymlはhpのテーマや構成出力形式などの指定" id="toc-quarto.ymlはhpのテーマや構成出力形式などの指定" class="nav-link" data-scroll-target="#quarto.ymlはhpのテーマや構成出力形式などの指定">_quarto.ymlはHPのテーマや構成，出力形式などの指定</a></li>
+  <li><a href="#styles.cssは文章をオシャレにするところ" id="toc-styles.cssは文章をオシャレにするところ" class="nav-link" data-scroll-target="#styles.cssは文章をオシャレにするところ">styles.cssは文章をオシャレにするところ</a></li>
+  </ul></li>
+  <li><a href="#hpをgithubに登録する" id="toc-hpをgithubに登録する" class="nav-link" data-scroll-target="#hpをgithubに登録する">HPをGithubに登録する</a>
+  <ul class="collapse">
+  <li><a href="#githubの設定" id="toc-githubの設定" class="nav-link" data-scroll-target="#githubの設定">Githubの設定</a></li>
+  <li><a href="#rstudioのterminalでhpを公開する" id="toc-rstudioのterminalでhpを公開する" class="nav-link" data-scroll-target="#rstudioのterminalでhpを公開する">RStudioの「Terminal」でHPを公開する</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -4796,14 +4812,66 @@ vertical-align: -.125em;
 <section id="qualtを使ったhpの作り方" class="level2">
 <h2 class="anchored" data-anchor-id="qualtを使ったhpの作り方">Qualtを使ったHPの作り方</h2>
 <p>
-</p><p>三木毬菜24歳，初めてHPを作ってみました！<br> 修士の2年間でHPを作らないとな～と思うだけで放置していたのですが，指導教員に「そろそろ…」と背中を押していただいたおかげでやっと作れました(笑)<br> Qualtを使用したのは，今年学振PDで清水研に来られた黒田さんが「サーバーを契約しなくてもGithubなら無料でできるよ」と優しく教えてくださったからです。そう，Qualtで利点は，<strong>無料であること</strong>と<strong>Markdownが分かる人にとって敷居が低いこと</strong>，<strong>研究における分析の透明性の向上</strong>にある。</p>
-HPを作るとなるとHTMLやCSSを自分で全て
+</p><p>当方，24歳にして初めてHPを作りました。<br> 修士の2年間でHPを作らないとな～と放置していたのですが，指導教員に「そろそろ…」と背中を押してもらってやっと作りました(笑)<br> HPをQualtで作成したのは，「<strong>サーバーを契約しなくてもGithubなら無料でできるよ</strong>」とkrdさんが優しく教えてくださったからです。他にも，<strong>Markdownが分かる人にとって敷居が低いこと</strong>と<strong>研究における分析の透明性の向上</strong>が利点です。<br> それでは，QualtをダウンロードするところからGithubで公開するまでを紹介します。<br></p>
+(目次は右にあります。)
 <p></p>
 </section>
-<section id="目次" class="level2">
-<h2 class="anchored" data-anchor-id="目次">### 目次</h2>
+<section id="事前準備" class="level2">
+<h2 class="anchored" data-anchor-id="事前準備">事前準備</h2>
+<section id="quartoをダウンロードする" class="level3">
+<h3 class="anchored" data-anchor-id="quartoをダウンロードする">Quartoをダウンロードする</h3>
+</section>
+<section id="rstudioの最新版をインストールする" class="level3">
+<h3 class="anchored" data-anchor-id="rstudioの最新版をインストールする">RStudioの最新版をインストールする</h3>
+</section>
+<section id="rstudioでプロジェクトを作る" class="level3">
+<h3 class="anchored" data-anchor-id="rstudioでプロジェクトを作る">RStudioでプロジェクトを作る</h3>
+</section>
+</section>
+<section id="hpの中身を作る" class="level2">
+<h2 class="anchored" data-anchor-id="hpの中身を作る">HPの中身を作る</h2>
+<section id="index.qmdはhpの内容" class="level3">
+<h3 class="anchored" data-anchor-id="index.qmdはhpの内容">index.qmdはHPの内容</h3>
+<p>index.qmdファイルは，YAMLヘッダー，テキスト，チャンクで構成され，それぞれ，ページの構成を作るところ，本文を書くところ，コードを書くところです。</p>
+<p>（図）</p>
+<section id="yamlヘッダーを設定" class="level4">
+<h4 class="anchored" data-anchor-id="yamlヘッダーを設定">YAMLヘッダーを設定</h4>
+<p>YAMLは～～の略です。</p>
+</section>
+<section id="テキストの編集" class="level4">
+<h4 class="anchored" data-anchor-id="テキストの編集">テキストの編集</h4>
+</section>
+<section id="コードの編集" class="level4">
+<h4 class="anchored" data-anchor-id="コードの編集">コードの編集</h4>
+<p>Rコードを書くための領域「<code>{r}</code>」をするショートカットコマンドは「cntr + alt + i」です。</p>
+</section>
+</section>
+<section id="quarto.ymlはhpのテーマや構成出力形式などの指定" class="level3">
+<h3 class="anchored" data-anchor-id="quarto.ymlはhpのテーマや構成出力形式などの指定">_quarto.ymlはHPのテーマや構成，出力形式などの指定</h3>
+<section id="projectはプロジェクトの種類websitearticle等や挙動を指定" class="level4">
+<h4 class="anchored" data-anchor-id="projectはプロジェクトの種類websitearticle等や挙動を指定">project：はプロジェクトの種類(website/article等)や挙動を指定</h4>
+</section>
+<section id="websiteタイトルやナビバーなど見た目や構造を指定" class="level4">
+<h4 class="anchored" data-anchor-id="websiteタイトルやナビバーなど見た目や構造を指定">website：タイトルやナビバーなど，見た目や構造を指定</h4>
+</section>
+<section id="format出力形式htmlpdfなどやテーマなどを指定" class="level4">
+<h4 class="anchored" data-anchor-id="format出力形式htmlpdfなどやテーマなどを指定">format：出力形式(HTML/pdfなど)やテーマなどを指定</h4>
+</section>
+</section>
+<section id="styles.cssは文章をオシャレにするところ" class="level3">
+<h3 class="anchored" data-anchor-id="styles.cssは文章をオシャレにするところ">styles.cssは文章をオシャレにするところ</h3>
+</section>
+</section>
+<section id="hpをgithubに登録する" class="level2">
+<h2 class="anchored" data-anchor-id="hpをgithubに登録する">HPをGithubに登録する</h2>
+<section id="githubの設定" class="level3">
+<h3 class="anchored" data-anchor-id="githubの設定">Githubの設定</h3>
+</section>
+<section id="rstudioのterminalでhpを公開する" class="level3">
+<h3 class="anchored" data-anchor-id="rstudioのterminalでhpを公開する">RStudioの「Terminal」でHPを公開する</h3>
 
 
+</section>
 </section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> トップに戻る</a></main> <!-- /main -->
