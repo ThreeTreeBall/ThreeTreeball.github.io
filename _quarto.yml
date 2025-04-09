@@ -30,7 +30,7 @@ format:
     output-dir: docs
     grid: 
       body-width: 1024px
-    theme: sandstone
+    theme: minty
     css: styles.css
     toc: true
     highlight-style: ally
