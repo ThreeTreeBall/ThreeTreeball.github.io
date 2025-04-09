@@ -4778,6 +4778,7 @@ vertical-align: -.125em;
   <ul class="collapse">
   <li><a href="#githubの設定" id="toc-githubの設定" class="nav-link" data-scroll-target="#githubの設定">Githubの設定</a></li>
   <li><a href="#rstudioのterminalでhpを公開する" id="toc-rstudioのterminalでhpを公開する" class="nav-link" data-scroll-target="#rstudioのterminalでhpを公開する">RStudioの「Terminal」でHPを公開する</a></li>
+  <li><a href="#hpを更新する" id="toc-hpを更新する" class="nav-link" data-scroll-target="#hpを更新する">HPを更新する</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -4869,6 +4870,18 @@ vertical-align: -.125em;
 </section>
 <section id="rstudioのterminalでhpを公開する" class="level3">
 <h3 class="anchored" data-anchor-id="rstudioのterminalでhpを公開する">RStudioの「Terminal」でHPを公開する</h3>
+</section>
+<section id="hpを更新する" class="level3">
+<h3 class="anchored" data-anchor-id="hpを更新する">HPを更新する</h3>
+<ol type="1">
+<li>新しく.qmdファイルを作成したときは，_quarto.ymlのnavber: に追加する</li>
+<li>Terminalを開く</li>
+<li>「quarto render –output-dir docs」と入力</li>
+<li>「git add .」を入力</li>
+<li>「git commit -m “Update Quarto files”」と入力</li>
+<li>「git push origin main」と入力 数十秒～数分待つと反映される。</li>
+</ol>
+<p>自分のURLはGithub &gt; Setting &gt; Pagesで一番上に表示されているはずです。</p>
 
 
 </section>

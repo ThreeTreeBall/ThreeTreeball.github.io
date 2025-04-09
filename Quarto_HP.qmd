@@ -82,6 +82,15 @@ Rコードを書くための領域「```{r}   ```」をするショートカッ�
 
 
 ### HPを更新する
-新しく.qmdファイルを作成したときは，
+1.  新しく.qmdファイルを作成したときは，_quarto.ymlのnavber: に追加する
+2.  Terminalを開く
+3.  「quarto render --output-dir docs」と入力
+4.  「git add .」を入力
+5.  「git commit -m "Update Quarto files"」と入力
+6.  「git push origin main」と入力
+数十秒～数分待つと反映される。
+
+自分のURLはGithub > Setting > Pagesで一番上に表示されているはずです。
+
 
 

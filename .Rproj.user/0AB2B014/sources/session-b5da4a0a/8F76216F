@@ -3,7 +3,7 @@
     "path": "C:/Users/Tthre/OneDrive/R/HP/mari7/works.qmd",
     "project_path": "works.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "500876639",
     "contents": "",
     "dirty": false,
     "created": 1744015350505.0,
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "2:0",
-        "cursorPosition": "48,1",
-        "scrollLine": "35"
+        "cursorPosition": "50,3",
+        "scrollLine": "48"
     },
     "folds": "",
-    "lastKnownWriteTime": 1744199125,
+    "lastKnownWriteTime": 1744201893,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1744199125759,
+    "last_content_update": 1744201893749,
     "read_only": false,
     "read_only_alternatives": []
 }
