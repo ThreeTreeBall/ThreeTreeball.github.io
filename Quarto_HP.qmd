@@ -1,0 +1,31 @@
+---
+title: ""
+date: today
+lang: ja
+format: 
+  html: 
+    grid: 
+      body-width: 1024px
+    highlight-style: ally
+    number-sections: false
+    embed-resources: true
+knitr: 
+  opts_chunk: 
+    dev: ragg_png
+    fig-align: center
+    dpi: 144
+    message: false
+---
+
+## Qualtを使ったHPの作り方
+<p>
+三木毬菜24歳，初めてHPを作ってみました！<br>
+修士の2年間でHPを作らないとな～と思うだけで放置していたのですが，指導教員に「そろそろ...」と背中を押していただいたおかげでやっと作れました(笑)<br>
+Qualtを使用したのは，今年学振PDで清水研に来られた黒田さんが「サーバーを契約しなくてもGithubなら無料でできるよ」と優しく教えてくださったからです。そう，Qualtで利点は，**無料であること**と**Markdownが分かる人にとって敷居が低いこと**，**研究における分析の透明性の向上**にある。
+
+HPを作るとなるとHTMLやCSSを自分で全て
+</p>
+
+
+### 目次
+- 
