@@ -6,7 +6,6 @@ format:
   html: 
     grid: 
       body-width: 1024px
-    theme: sandstone
     highlight-style: ally
     number-sections: false
     embed-resources: true

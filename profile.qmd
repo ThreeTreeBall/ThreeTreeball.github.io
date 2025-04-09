@@ -6,7 +6,6 @@ format:
   html: 
     grid: 
       body-width: 1024px
-    theme: sandstone
     highlight-style: ally
     number-sections: false
     embed-resources: true
@@ -33,7 +32,6 @@ knitr:
 - メールアドレス：marina.miki25\[at\]gmail.com<br>
  (\[at\]は\@に置き換えてください)
 - X(Twitter)：<a href = "https://x.com/ThreeTreeball">@ThreeTreeball</a>
-- researchmap：</strong> <a href = "https://researchmap.jp/marinamiki">三木毬菜のリサーチマップ</a>
 
 
 ### 経歴
