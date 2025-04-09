@@ -1,0 +1,89 @@
+---
+title: "このサイトについて"
+email: marina.miki25[at]gmail.com
+date: today
+lang: ja
+format: 
+  html: 
+    grid: 
+      body-width: 1024px
+    theme: sandstone
+    highlight-style: ally
+    number-sections: false
+    embed-resources: true
+knitr: 
+  opts_chunk: 
+    dev: ragg_png
+    fig-align: center
+    dpi: 144
+    message: false
+---
+
+::: profile-box
+<p><strong>連絡先：</strong>marina.miki25\[at\]gmail.com (\[at\]は\@に置き換えてください)</p>
+
+<p>
+
+<strong>所属：</strong> 関西学院大学 社会学研究科 博士課程後期課程 1年<br>
+<span style="display:inline-block; width:3.2em;"></span>日本学術振興会（DC1）
+
+</p>
+
+<p><strong> reseachmap：</strong> <a href = "https://researchmap.jp/marinamiki">三木毬菜のリサーチマップ</a></p>
+:::
+
+------------------------------------------------------------------------
+
+## このサイトについて
+
+このサイトはRStudioやStan，統計，実験についての記事などを管理人の関心によって随時投稿する予定です。
+
+本サイトの内容はあくまで個人の見解であり，所属機関とは一切の関係はありません。
+
+記事の内容について，不明点や間違い，質問などがございましたら，下記の連絡先から問い合わせて頂ければ幸いです。
+
+## 三木のプロフィール・連絡先
+
+### 研究関心
+
+社会心理学を専攻しており，**将来世代のための利他行動の生起メカニズム**に関心がある。
+
+研究手法はベイズ統計モデリングと行動実験を採用している。理論的な導出を数理モデルで行い，モデルからの示唆を実証するサイクルを回している。
+
+### 連絡先
+
+メールアドレス：marina.miki25\[at\]gmail.com
+
+　(\[at\]は\@に置き換えてください)
+
+X(Twitter)：<a href = "https://x.com/ThreeTreeball">@ThreeTreeball</a>
+
+reseachmap：</strong> <a href = "https://researchmap.jp/marinamiki">三木毬菜のリサーチマップ</a>
+
+### 所属学会
+
+日本社会心理学会
+
+日本行動計量学会
+
+### 経歴
+
+2025年4月- 現在 関西学院大学 社会学研究科 博士課程後期課程 入学
+
+2023年4月- 2025年3月 関西学院大学 社会学研究科 博士課程前期課程
+
+2019年4月- 2023年3月 高知工科大学 経済・マネジメント学群
+
+### 学位
+
+学士（経済学）. 高知工科大学, 2019年
+
+修士（社会学）. 関西学院大学, 2024年
+
+### 教育歴
+
+ティーチング・アシスタント. 関西学院大学 社会学部, 2023年9月-2024年3月. 基礎心理実験
+
+ティーチング・アシスタント. 関西学院大学 社会学部, 2024年4月-2025年8月. 社会心理学実験
+
+ティーチング・アシスタント. 関西学院大学 社会学部, 2024年9月-2025年3月. 基礎心理実験

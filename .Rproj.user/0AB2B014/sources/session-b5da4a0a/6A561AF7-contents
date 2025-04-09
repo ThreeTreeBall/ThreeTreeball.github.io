@@ -1,0 +1,38 @@
+project:
+  type: website
+  preview: 
+    port: 3333
+    watch-inputs: true
+    navigate: true
+
+website:
+  title: "Marina Miki"
+  back-to-top-navigation: true
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        href: Home.qmd 
+      - text: "Works"
+        href: works.qmd
+    tools:
+      - icon: twitter
+        href: https://x.com/ThreeTreeball
+
+
+format: 
+  html: 
+    output-dir: docs
+    grid: 
+      body-width: 1024px
+    theme: sandstone
+    css: styles.css
+    toc: true
+    highlight-style: ally
+    number-sections: true
+    embed-resources: true
+
+editor: source
+
+
