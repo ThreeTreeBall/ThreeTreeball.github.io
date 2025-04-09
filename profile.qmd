@@ -21,10 +21,8 @@ knitr:
 
 ### 所属
 <p>
-
-<strong>所属：</strong> 関西学院大学 社会学研究科 博士課程後期課程 1年<br>
-<span style="display:inline-block; width:3.2em;"></span>日本学術振興会（DC1）
-
+- 関西学院大学 社会学研究科 博士課程後期課程 1年
+- 日本学術振興会（DC1）
 </p>
 
 ### 連絡先
