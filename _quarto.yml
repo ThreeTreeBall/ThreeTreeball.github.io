@@ -14,8 +14,12 @@ website:
     left:
       - text: "Home"
         href: Home.qmd 
+      - text: "Profile"
+        href: profile.qmd
       - text: "Works"
-        href: works.qmd
+        href: works.qmd 
+      - text: "Links"
+        href: Links.qmd
     tools:
       - icon: twitter
         href: https://x.com/ThreeTreeball

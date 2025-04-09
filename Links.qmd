@@ -1,0 +1,32 @@
+---
+title: ""
+date: today
+lang: ja
+format: 
+  html: 
+    grid: 
+      body-width: 1024px
+    theme: sandstone
+    highlight-style: ally
+    number-sections: false
+    embed-resources: true
+knitr: 
+  opts_chunk: 
+    dev: ragg_png
+    fig-align: center
+    dpi: 144
+    message: false
+---
+
+## リンク Links
+
+- <a href="https://norimune.net/" target="_blank">
+関西学院大学 清水裕士 研究室</a>
+
+-----
+
+- <a href="https://www.socialpsychology.jp/" target="_blank">
+日本社会心理学会</a>
+- <a href="https://bms.gr.jp/" target="_blank">
+日本行動計量学会</a>
+

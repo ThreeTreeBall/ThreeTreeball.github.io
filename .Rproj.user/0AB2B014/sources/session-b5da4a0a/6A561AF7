@@ -3,7 +3,7 @@
     "path": "C:/Users/Tthre/OneDrive/R/HP/mari7/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "2553948520",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1744015384420.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "17,23",
-        "scrollLine": "15"
+        "cursorPosition": "21,19",
+        "scrollLine": "9"
     },
     "folds": "",
-    "lastKnownWriteTime": 1744174775,
+    "lastKnownWriteTime": 1744182672,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1744174776007,
+    "last_content_update": 1744182672944,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -1,0 +1,54 @@
+---
+title: ""
+date: today
+lang: ja
+format: 
+  html: 
+    grid: 
+      body-width: 1024px
+    theme: sandstone
+    highlight-style: ally
+    number-sections: false
+    embed-resources: true
+knitr: 
+  opts_chunk: 
+    dev: ragg_png
+    fig-align: center
+    dpi: 144
+    message: false
+---
+
+## プロフィール Profile
+
+### 所属
+<p>
+
+<strong>所属：</strong> 関西学院大学 社会学研究科 博士課程後期課程 1年<br>
+<span style="display:inline-block; width:3.2em;"></span>日本学術振興会（DC1）
+
+</p>
+
+### 連絡先
+
+- メールアドレス：marina.miki25\[at\]gmail.com<br>
+ (\[at\]は\@に置き換えてください)
+- X(Twitter)：<a href = "https://x.com/ThreeTreeball">@ThreeTreeball</a>
+- researchmap：</strong> <a href = "https://researchmap.jp/marinamiki">三木毬菜のリサーチマップ</a>
+
+
+### 経歴
+
+- 2025年4月- 現在 関西学院大学 社会学研究科 博士課程後期課程 入学
+- 2023年4月- 2025年3月 関西学院大学 社会学研究科 博士課程前期課程
+- 2019年4月- 2023年3月 高知工科大学 経済・マネジメント学群
+
+### 学位
+
+- 学士（経済学）. 高知工科大学, 2019年
+- 修士（社会学）. 関西学院大学, 2024年
+
+### 教育歴
+
+- ティーチング・アシスタント. 関西学院大学 社会学部, 2023年9月-2024年3月. 基礎心理実験
+- ティーチング・アシスタント. 関西学院大学 社会学部, 2024年4月-2025年8月. 社会心理学実験
+- ティーチング・アシスタント. 関西学院大学 社会学部, 2024年9月-2025年3月. 基礎心理実験
